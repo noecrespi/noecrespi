@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi! I'm Noelia Crespí Pomar <img align="center" src="https://user-images.githubusercontent.com/91556607/144660066-446da583-e128-4ba5-b649-556ca8889f1d.png" height="80" width="auto" />
+
+
+Courses:
+
+<img align="center" src="https://user-images.githubusercontent.com/91556607/144660474-f0847b15-dfb9-4105-a881-95f34c835e14.jpeg" height="250" width="auto" />
+
+#### Connect with me:
+
+<a href="ncrespipomar@cifpfbmoll.eu" target="blank"><img align="center" src="http://download.seaicons.com/download/i95298/dtafalonso/android-l/dtafalonso-android-l-gmail.ico" height="40" width="auto" /></a> <a href="https://www.linkedin.com/in/noelia-cresp%C3%AD-pomar-571078192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+
 
 <!--
 **noecrespi/noecrespi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
