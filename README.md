@@ -7,7 +7,7 @@ Courses:
 
 #### Connect with me:
 
-<a href="ncrespipomar@cifpfbmoll.eu" target="blank"><img align="center" src="http://download.seaicons.com/download/i95298/dtafalonso/android-l/dtafalonso-android-l-gmail.ico" height="40" width="auto" /></a> <a href="https://www.linkedin.com/in/noelia-cresp%C3%AD-pomar-571078192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="ncrespipomar@cifpfbmoll.eu" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" height="40" width="auto" /></a> <a href="https://www.linkedin.com/in/noelia-cresp%C3%AD-pomar-571078192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="40" /></a>
 
 
 <!--
