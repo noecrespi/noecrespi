@@ -13,7 +13,7 @@
 
 **Curso de Introducción al Desarrollo Web: HTML y CSS**
 
-<img align="center" src="https://file:///Users/noecrespi/Documents/certificado.jpg" height="250" width="auto" /> **(1/2)**
+<img align="center" src="https://i.imgur.com/Ksoo2bn.jpeg" height="220" width="auto" /> **(1/2)**
 
 
 #### Connect with me:
